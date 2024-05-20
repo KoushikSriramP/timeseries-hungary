@@ -1,4 +1,4 @@
-##Time Series analysis and Forecasting of historical weather data from Hungary Szegard 2006-2016
+## Time Series analysis and Forecasting of historical weather data from Hungary Szegard 2006-2016
 The code is written in jupyter notebook
 The Machine Learning problem statement is :
 "Time Series analysis and Forecasting Humidity using Historical weather data"
