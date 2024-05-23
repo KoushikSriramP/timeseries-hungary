@@ -1,7 +1,9 @@
 ## Time Series analysis and Forecasting of historical weather data from Hungary Szegard 2006-2016
-The code is written in jupyter notebook
+
+### Project Description
 The Machine Learning problem statement is :
 "Time Series analysis and Forecasting Humidity using Historical weather data"
 
-The dataset is downloaded from This website : https://www.kaggle.com/datasets/budincsevity/szeged-weather
+### Data Source
+The dataset is downloaded from This website : https://www.kaggle.com/datasets/budincsevity/szeged-weather. The data consists of 24 hour timestamps from 2006 to 2016 weather data from Szeged, Hungary.
 
